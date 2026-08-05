@@ -17,3 +17,4 @@ Hey there 👋 I’m a high school student and AI Integration Engineer.<br>On a 
 
 ---
 [![](https://komarev.com/ghpvc/?username=syauqi-nex&icon=6&color=13)](https://visitcount.itsvg.in)
+
