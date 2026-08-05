@@ -1,4 +1,4 @@
-# 💫 About Me:
+About Me:
 Hey there 👋 I’m a high school student and AI Integration Engineer.<br>on a mission to bridge intelligent software with the real world. <br>Whether it's crafting fullstack apps in Python, playing around with Arduino, or building Nex AI from scratch.<br>I love turning bold ideas into scalable tech. Always building, always learning ❤️‍🔥
 
 
